@@ -1,4 +1,4 @@
-# Microservicio de Catalogo de Productos
+# Microservicio de stock de Productos
 
 Es un microservicio que permite manejar el catalogo de artículos, precios y stock, es un proyecto académico, esta simplificado al máximo; que en un ambiente de microservicios, tanto precios como stock deberian llevarse en un microservicio separado.
 
